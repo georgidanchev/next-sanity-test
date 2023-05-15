@@ -1,0 +1,45 @@
+{
+  "workbench.colorCustomizations": {
+    "[Andromeda Colorizer]": {
+      "statusBar.background": "#252526",
+      "tab.activeBorder": "#ffcc66"
+    },
+    "[Atom Material Theme]": {
+      "editor.background": "#1e282c",
+      "panel.border": "#4f432b",
+      "sideBar.border": "#4f432b"
+    },
+    "[Cobalt2]": {
+      "editor.background": "#14212a"
+    },
+    "[Halcyon]": {
+      "activityBar.background": "#242c3f",
+      "activityBar.foreground": "#ffcc66",
+      "editor.background": "#151C28",
+      "editor.foldBackground": "#151C28",
+      "editorError.foreground": "#ff000081",
+      "panel.border": "#4f432b",
+      "sideBar.border": "#4f432b",
+      "statusBar.background": "#242c3f",
+      "statusBar.foreground": "#8695b7",
+      "terminal.background": "#151C28",
+      "terminal.border": "#8695b7",
+      "terminal.foreground": "#111111",
+      "window.activeBorder": "#111111"
+    },
+    "[Monokai Vibrant]": {
+      "sideBar.border": "#4f432b",
+      "statusBar.border": "#4f432b"
+    },
+    "[Night Owl]": {
+      "panel.border": "#102a44",
+      "sideBar.border": "#102a44"
+    },
+    "editorWhitespace.foreground": "#8695b7",
+    "activityBar.background": "#39273F",
+    "titleBar.activeBackground": "#503758",
+    "titleBar.activeForeground": "#FBFAFC"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}
